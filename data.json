@@ -1,0 +1,10 @@
+{
+    "requests_info": [
+        {"alias": "query", "url": ""},
+        {"alias": "start", "url": ""},
+        {"alias": "render", "url": ""},
+        {"alias": "show", "url": ""},
+        {"alias": "complete", "url": ""},
+        {"alias": "reward", "url": ""}
+    ]
+}
